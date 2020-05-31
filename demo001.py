@@ -100,16 +100,29 @@ a.update(sex=d)
 print("个人信息为：",a)
 """
 
-a = {}
-b = input("请输入您的姓名：")
-c = input("请输入您的年龄：")
-d = input("请输入您的性别：")
-a["name"] = b
-a["age"] = c
-a["sex"] = d
-print("您的个人信息为：",a)
+# a = {}
+# b = input("请输入您的姓名：")
+# c = input("请输入您的年龄：")
+# d = input("请输入您的性别：")
+# a["name"] = b
+# a["age"] = c
+# a["sex"] = d
+# print("您的个人信息为：",a)
 
-
+"""
+第二次练习答案：
+获取用户输入的个人信息，并且储存到字典中。
+个人信息包括了，name,age,sex.
+"""
+# name = input("请输入你的姓名：")
+# age = input("请输入你的年龄：")
+# sex = input("请输入你的性别：")
+# userinfor = {}
+# # userinfor.update(name=name,age=age,sex=sex)
+# userinfor["name"] = name
+# userinfor["age"] = age
+# userinfor["sex"] = sex
+# print(userinfor)
 
 
 
