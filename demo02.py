@@ -104,18 +104,5 @@ for i in a:
     print(i,end="||")
     print("--------")
 
-    #练习1：
-# f=1
-# while f==1:
-#     a=30
-#     b=35
-#     c=3
-#     while a>=1:
-#         print("红灯还有",a,"秒结束")
-#         a=a-1
-#     while b>=1:
-#         print("绿灯还有",b,"秒结束")
-#         b=b-1
-#     while c>=1:
-#         print("黄灯还有",c,"秒结束")
-#         c=c-1
+   
+
